@@ -1,0 +1,33 @@
+{
+  "best_model": "ridge",
+  "results": [
+    {
+      "Model": "ridge",
+      "MAE": 3.484,
+      "RMSE": 4.389,
+      "R2": 0.839,
+      "CV_R2": 0.834
+    },
+    {
+      "Model": "linear_regression",
+      "MAE": 3.484,
+      "RMSE": 4.389,
+      "R2": 0.839,
+      "CV_R2": 0.834
+    },
+    {
+      "Model": "gradient_boosting",
+      "MAE": 3.652,
+      "RMSE": 4.623,
+      "R2": 0.821,
+      "CV_R2": 0.815
+    },
+    {
+      "Model": "random_forest",
+      "MAE": 3.937,
+      "RMSE": 4.939,
+      "R2": 0.796,
+      "CV_R2": 0.797
+    }
+  ]
+}

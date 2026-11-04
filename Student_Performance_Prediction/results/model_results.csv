@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,CV_R2
+ridge,3.484,4.389,0.839,0.834
+linear_regression,3.484,4.389,0.839,0.834
+gradient_boosting,3.652,4.623,0.821,0.815
+random_forest,3.937,4.939,0.796,0.797
